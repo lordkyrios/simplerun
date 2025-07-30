@@ -1,0 +1,27 @@
+{
+  "name": "simplerun",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^10.18.0",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.9",
+    "@types/react": "18.3.23",
+    "eslint": "^9.31.0",
+    "serve": "^14.2.4",
+    "typescript": "5.8.3"
+  }
+}
